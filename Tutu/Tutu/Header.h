@@ -10,7 +10,7 @@ private:
 
 public:
 	
-	Train(string, int, int);
+	Train(string st, int n, int t);
 	Train();
 
 
